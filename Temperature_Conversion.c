@@ -19,7 +19,7 @@ int main(void)
 
 	temp_F = (temp_C * (1.8)) + 32;                           // the EQN That Transfers the Temp from degrees Celsius to degrees Fahrenheit
 
-	printf("The Temperature in Fahrenheit is %0.3f", temp_F); //printout the Temperature in Fahrenheit
+	printf("The Temperature in Fahrenheit is %0.3f F", temp_F); //printout the Temperature in Fahrenheit
 	fflush(stdout);
 
 	return 0;
