@@ -11,13 +11,13 @@
 
 int main(void)
 {
-	signed int num;
+	signed long num;
 
 	printf("Enter The Number:");
 	fflush(stdout);
-	scanf("%d", &num);
+	scanf("%ld", &num);
 
-	if (num > 0) 
+	if (num > 0)
 	{
 		printf("The Number is Positive");
 	}
