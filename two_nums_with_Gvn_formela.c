@@ -11,13 +11,13 @@
 
 int main(void) {
 
-	int num1, num2;
 	long result;
+	short num1, num2;
 
-	printf("enter Two  numbers :\n");
+	printf("enter Two  numbers :");
     fflush(stdout);
 
-	scanf ("%d%d",&num1 ,&num2);
+	scanf ("%hd%hd",&num1 ,&num2);
     result = ((num1 +num2)*3)-10 ;
 
 	printf("The result = %ld",result);
