@@ -2,7 +2,7 @@
  ============================================================================
  Name        : two_nums_formela.c
  Author      : Ahmed Mahmoud Hafny
- Version     : 1.0
+ Version     : 1.01
  Description : a program that take two integers from the user and print the results of a given EQN
  ============================================================================
  */
