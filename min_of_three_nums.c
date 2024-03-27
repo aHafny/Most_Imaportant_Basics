@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : compare_three_nums.c
+ Name        : min_of_three_nums.c
  Author      : Ahmed Mahmoud Hafny
  Version     : 1.0
  Description : a program that print the the minimum number between three numbers.
