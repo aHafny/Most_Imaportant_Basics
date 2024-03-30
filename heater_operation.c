@@ -2,7 +2,7 @@
  ============================================================================
  Name        : heater_operation.c
  Author      : Ahmed Mahmoud Hafny
- Version     :
+ Version     : 1.0
  Description : a program that calculates a heating time by taking the temperature using function
  ============================================================================
  */
