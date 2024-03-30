@@ -6,10 +6,12 @@
  Description : a program that calculates a heating time by taking the temperature using function
  ============================================================================
  */
-
 #include <stdio.h>
+
+/********************************      Functions Declaration (Prototype) Section     *****************************************/
 unsigned long calc_time(float temp);
 
+/********************************      Main Section     *****************************************/
 int main(void) {
 
 
@@ -25,6 +27,7 @@ int main(void) {
 
 
 }
+/********************************      Functions Section     *****************************************/
 unsigned long calc_time(float temp)
 {
 
