@@ -4,9 +4,9 @@
  Author      : Ahmed Mahmoud Hafny
  Version     : 1.0
  Description : a simple calculator using switch-case and user defined function
- The calculator takes the operation
- (+ or – or * or /) and takes the two input arguments
- and print the results.
+               The calculator takes the operation
+               (+ or â€“ or * or /) and takes the two input arguments
+               and print the results.
  ============================================================================
  */
 /********************************      Header Files              *****************************************/
